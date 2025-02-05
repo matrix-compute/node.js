@@ -206,14 +206,14 @@
     "ajv-formats": "^2.1.1",
     "ajv-formats-draft2019": "^1.6.1",
     "diff": "^5.2.0",
-    "licensee": "^10.0.0",
+    "licensee": "^11.1.1",
     "nock": "^13.4.0",
     "npm-packlist": "^8.0.2",
     "remark": "^14.0.2",
     "remark-gfm": "^3.0.1",
     "remark-github": "^11.2.4",
     "spawk": "^1.7.1",
-    "tap": "^16.3.9"
+    "tap": "^18.0.0"
   },
   "scripts": {
     "dependencies": "node scripts/bundle-and-gitignore-deps.js && node scripts/dependency-graph.js",
